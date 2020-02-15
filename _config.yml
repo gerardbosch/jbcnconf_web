@@ -12,3 +12,5 @@ layouts_dir: 2020/_layouts
 includes_dir: 2020/_includes
 data_dir: 2020/_data
 exclude: ["vendor","README.*","/tools/**", "Gemfile", "Rakefile", "*.i*"]
+
+theme: jekyll-theme-slate
